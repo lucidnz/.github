@@ -14,8 +14,8 @@ https://test.com/collections/all?preview_theme_id=1234567890
 
 - [ ] _Don't forget to add the dev lead as a **reviewer**, and notify them in ClickUp as well._
 
-- [ ] _Don't forget to **label** this pull request with either `major`, `minor` or `patch`, to automatically increment the draft release._
+- [ ] _If this PR is going into main, don't forget to **label** it with either `major`, `minor` or `patch`, to automatically increment the draft release._
 
-- [ ] _Don't forget to **publish** the newly created draft release after merging this PR. ([View releases](../releases))._
+- [ ] _If this PR is going into main, don't forget to **publish** the newly created draft release after merging this PR. ([View releases](../releases))._
 
-- [ ] _If the GitHub action to create the release is not working, please reach out to a dev lead so they can set it up._
+- [ ] _If this PR is going into main, and the GitHub action to create the release is not working, please reach out to a dev lead so they can set it up._
