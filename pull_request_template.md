@@ -12,8 +12,8 @@ https://test.com/collections/all?preview_theme_id=1234567890
 
 ### Reminders:
 
-_Don't forget to add the dev lead as a reviewer, and notify them in ClickUp as well._
+- [ ] _Don't forget to add the dev lead as a **reviewer**, and notify them in ClickUp as well._
 
-_Don't forget to label this pull request with either `major`, `minor` or `patch`, to automatically increment the draft release._
+- [ ] _Don't forget to **label** this pull request with either `major`, `minor` or `patch`, to automatically increment the draft release._
 
-_Don't forget to publish the related draft release after merging this PR._
+- [ ] _Don't forget to **publish** the newly created draft release after merging this PR. ([View releases](../releases))._
